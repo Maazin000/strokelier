@@ -163,9 +163,9 @@ export default function WelcomeScreen() {
       />
 
       <h1>STROKELIER</h1>
-      <StrokeDivider color="var(--brass)" style={{ marginBottom: '50px', maxWidth: '300px' }} />
+      <StrokeDivider color="var(--brass)" style={{ marginBottom: '16px', maxWidth: '300px' }} />
 
-      <div className="action-form">
+      <div className="action-form" style={{marginTop: '20px'}}>
         <div className="input-group">
           <label>Your Alias</label>
           <input
