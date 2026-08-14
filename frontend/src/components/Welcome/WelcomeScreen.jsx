@@ -164,9 +164,6 @@ export default function WelcomeScreen() {
 
       <h1>STROKELIER</h1>
       <StrokeDivider color="var(--brass)" style={{ marginBottom: '16px', maxWidth: '300px' }} />
-      <p className="tagline">
-        ATELIER SESSION LEDGER // PHYSICAL INK PARAMETERS
-      </p>
 
       <div className="action-form">
         <div className="input-group">
